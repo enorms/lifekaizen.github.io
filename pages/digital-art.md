@@ -25,7 +25,7 @@ My thesis was that high quality displays are getting cheaper and cheaper, and wh
 Displaying art in a digital fashion allows testing, changing pictures for mood / company, and best of all opens up dynamic art which is not possible with prints or canvas. The product would need to display different pieces for long periods of time (days or weeks).
 
 ### What did I know that was different:
-It's about content, and the trick is not to make the frame. Making the hardware is difficult and Kindle Fire will be cheaper and Samsung TVs better (especially the Frame). If you have content now, later you can add platforms.
+It's about content, and the trick is not to make the frame*. Making the hardware is difficult and Kindle Fire will be cheaper and [Samsung TVs better (especially the Frame)](https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/highlights/). If you have content now, later you can add platforms.
 
 ### How I tested:
 I took an "old" TV and mounted it on the wall (a 1080p, I had just upgraded to 4K HDR) and hooked up an Apple TV. I tried various apps, nothing did what I wanted: they were trying to recreate going to a museum at home (always a bad idea, try early news or books that stuck pdfs of printed pages as is onto digital screens). Then I loaded some photos into the photo album, and let that run - I learned it kicks you out after a few days. I found a local artist and he modified a gif for me
@@ -41,3 +41,5 @@ I took an "old" TV and mounted it on the wall (a 1080p, I had just upgraded to 4
 - I didn't actually have the skills to build an iOS app (yet)
 
 I still think this an opportunity for: passionate about art, can write Apple TV app.
+
+\* [Meural](https://meural.netgear.com/) was making a frame and was purchased by Netgear, perhaps it can function as a router.
