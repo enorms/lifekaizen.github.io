@@ -5,6 +5,7 @@ layout: default
 ## Creations
 
 ### [Digital Art](/pages/digital-art.html)
+### [Humidor App](/pages/humidor-app.html)
 
 ## Other things
 
