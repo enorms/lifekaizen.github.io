@@ -9,7 +9,7 @@ Somewhat in order of the expected utility they may have to others...
 * [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - work on capturing the criteria for launch
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data
-* [Digital Art](/pages/digital-art.html) Exploration - exploring interactive art & digital frames
+* [Digital Art Exploration](/pages/digital-art.html) - exploring interactive art & digital frames
 
 ## Code/Software work
 

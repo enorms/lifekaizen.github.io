@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Digital Art Project
+# Digital Art Exploration
 
 ## Creations
 
 * [Bounce][1]  - an interactive piece that reacts to observed movement
-![bounce](/assets/img/bounce.png){:class="img-responsive":height="480px" width="360px"}
+![bounce](/assets/img/art/bounce.png){:class="img-responsive":height="480px" width="360px"}
 
 
 * [Abstract clock][2] (unfinished) - an exploration of meaningful (slow) movement
-![clock](/assets/img/clock.png){:class="img-responsive":height="480px" width="360px"}
+![clock](/assets/img/art/clock.png){:class="img-responsive":height="480px" width="360px"}
 
 
 [1]: https://scratch.mit.edu/projects/327495957/
@@ -38,9 +38,13 @@ I took an "old" TV and mounted it on the wall (a 1080p, I had just upgraded to 4
 - Needs a way to adjust to ambient light (it's annoying in the evenings or a middle of the night bathroom run)
 - Consumers may care about electricity usage (it's not that I don't care, but I expect constant usage can be addressed at a central location efficiently over time)
 - People think digital art means a screen saver
-- Someone at Apple gets it (on 10.15 see Settings > Desktop > Apple Desktop Pictures > Dynamic Desktop > Catalina, Mojave, Solar Gradients)
-- I didn't actually have the skills to build an iOS app (yet)
+- I needed to improve my dev skills to build an iOS app
+- Apple gets it, see Dynamic Desktop: (Settings > Desktop > Apple Desktop Pictures > Dynamic Desktop > Catalina, Mojave, Solar Gradients) **
+![bounce](/assets/img/art/apple.png){:class="img-responsive"}
 
-I still think this an opportunity for: passionate about art, can write Apple TV app.
+
+I think this remains an opportunity for someone: passionate about art, can write TV apps (Apple, Roku, Samsung, etc.).
 
 \* [Meural](https://meural.netgear.com/) was making a frame and was purchased by Netgear, perhaps it can function as a router.
+
+\** OS 10.15.1
