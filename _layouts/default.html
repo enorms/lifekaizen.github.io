@@ -18,6 +18,8 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        {{ site.description }}
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -32,9 +34,8 @@
         <p>
           <small>
             <a href="/index.html">Home</a>
-            <p>
-                ©2019 Eric Norman
-            </p>
+            <p>©2019 Eric Norman</p>
+            <p>San Francisco, California</p>
           </small>
         </p>
       </footer>
