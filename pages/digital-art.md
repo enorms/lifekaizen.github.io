@@ -6,19 +6,18 @@ layout: default
 
 ## Creations
 
-* [Bounce](https://scratch.mit.edu/projects/327495957/)  - an interactive piece that bounces on visual movement
+* [Bounce][1]  - an interactive piece that reacts to observed movement
 ![bounce](/assets/img/bounce.png){:class="img-responsive":height="480px" width="360px"}
 
 
-
-* [Abstract clock](https://scratch.mit.edu/projects/327495941/) (unfinished) - an exploration of meaningful (slow) movement
+* [Abstract clock][2] (unfinished) - an exploration of meaningful (slow) movement
 ![clock](/assets/img/clock.png){:class="img-responsive":height="480px" width="360px"}
 
-* Installation prototyping - a mockup on living room TV, this was then moved to the wall (artist of the piece on screen is: [Elis Minborg](https://elisminborg.com/project-type/gallery/))
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Vj0UKuB2EVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+[1]: (https://scratch.mit.edu/projects/327495957/)
+[2]: (https://scratch.mit.edu/projects/327495941/)
 
-## Background
+## Description
 
 My thesis was that high quality displays are getting cheaper and cheaper, and when people upgrade you get a *free* one, and TV platforms that run apps are becoming prevalent and powerful (Apple TV adding GPU, etc.).
 
@@ -29,7 +28,9 @@ It's about content, and the trick is not to make the frame*. Making the hardware
 
 ### How I tested:
 I took an "old" TV and mounted it on the wall (a 1080p, I had just upgraded to 4K HDR) and hooked up an Apple TV. I tried various apps, nothing did what I wanted: they were trying to recreate going to a museum at home (always a bad idea, try early news or books that stuck pdfs of printed pages as is onto digital screens). Then I loaded some photos into the photo album, and let that run - I learned it kicks you out after a few days. I found a local artist and he modified a gif for me
-[see above].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vj0UKuB2EVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+*mockup on living room TV, this was then moved to the wall (artist: [Elis Minborg](https://elisminborg.com/project-type/gallery/))*
 
 
 ### What I learned:
