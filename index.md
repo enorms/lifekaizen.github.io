@@ -4,12 +4,25 @@ layout: default
 
 ## Creations
 
-### [Digital Art](/pages/digital-art.html)
-### [Humidor App](/pages/humidor-app.html)
+Somewhat in order of the expected utility they may have to others...
+
+* [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
+* [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - work on capturing the criteria for launch
+* [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data
+* [Digital Art](/pages/digital-art.html) Exploration - exploring interactive art & digital frames
+
+## Code/Software work
+
+More about my capability and approach to software / design / product.
+
+* [Humidor App](/pages/humidor-app.html) - React Native app with bluetooth and Firebase from scratch
+* [Code samples](https://github.com/lifekaizen/samples)
+
 
 ## Other things
 
-* [Angel List](https://angel.co/ericnorman) Profile
+* Profile [[Angel List](https://angel.co/ericnorman)]
+* Profile [[Hacker News](https://news.ycombinator.com/user?id=lifekaizen)]
 * Won international operations competition hosted by MIT graduate student club [[UCSD News][1]]
 * Issued patent for precision cooking. [[Google Patents][2]]
 
