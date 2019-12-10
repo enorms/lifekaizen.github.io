@@ -10,6 +10,7 @@ Somewhat in order of the expected utility they may have to others...
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - work on capturing the criteria for launch
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data
 * [Digital Art Exploration](/pages/digital-art.html) - exploring interactive art & digital frames
+* [Loudness](/pages/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level
 
 ## Code/Software work
 
