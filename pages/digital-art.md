@@ -14,8 +14,8 @@ layout: default
 ![clock](/assets/img/clock.png){:class="img-responsive":height="480px" width="360px"}
 
 
-[1]: (https://scratch.mit.edu/projects/327495957/)
-[2]: (https://scratch.mit.edu/projects/327495941/)
+[1]: https://scratch.mit.edu/projects/327495957/
+[2]: https://scratch.mit.edu/projects/327495941/
 
 ## Description
 
