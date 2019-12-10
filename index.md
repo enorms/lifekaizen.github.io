@@ -12,7 +12,7 @@ Somewhat in order of the ability to interact and provide fun or to others...
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - work on capturing the criteria for launch
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data (*inactive*)
 * [Humidor App](/pages/humidor-app.html) - React Native app with bluetooth and Firebase from scratch
-* [Code samples](https://github.com/lifekaizen/samples)
+* [Code snippets](/pages/academic.html)
 
 
 ## Other things
