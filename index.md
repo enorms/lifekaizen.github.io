@@ -13,7 +13,7 @@ Somewhat in order of the ability to interact and provide fun or to others...
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data (*inactive*)
 * [Humidor App](/pages/humidor-app.html) - React Native app with bluetooth and Firebase from scratch
 * [Code snippets](/pages/academic.html)
-* [Corporate compliance](/pages/compliance.html) - create a tool that simplifies the administrative burden of startup CEOs
+* [Good Standing](http://goodstanding.guide/) - simplify the administrative burden of startup CEOs
 
 
 ## Other things
