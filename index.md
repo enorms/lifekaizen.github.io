@@ -13,6 +13,7 @@ layout: default
 ### Larger projects:
 * [Measured Insight](/assets/measured_insight.pdf) - Paid beta of a statistical system to find product issues early 
 * [Humidor App](/pages/humidor-app.html) - Wrote the entirety of the React Native app including bluetooth integration
+* Cam Stand - For racing engines, a precision dynometer for camshafts (In progress)
 
 
 ### Fooling around:
