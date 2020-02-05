@@ -7,11 +7,13 @@ layout: default
 ### Might be useful to others
 
 * [Good Standing](http://goodstanding.guide/) - Gusto for compliance for startup founders
+![alt text](/assets/img/index/good_standing_cal.png "Early version of the compliance calendar.")
 * [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - systematize launch criteria
 
 ### Larger projects:
 * [Measured Insight](/assets/measured_insight.pdf) - Paid beta of a statistical system to find product issues early 
+![alt text](/assets/img/index/mi_freq_dist.png "Frequency distribution shows clear separation of good and bad items.")
 * [Humidor App](/pages/humidor-app.html) - Wrote the entirety of the React Native app including bluetooth integration
 * Cam Stand - For racing engines, a precision dynometer for camshafts (In progress)
 
