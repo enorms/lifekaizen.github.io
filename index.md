@@ -4,17 +4,22 @@ layout: default
 
 ## Creations
 
-Somewhat in order of the ability to interact and provide fun or to others...
+### Might be useful to others
 
+* [Good Standing](http://goodstanding.guide/) - Gusto for compliance for startup founders
+* [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
+* [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - systematize launch criteria
+
+### Larger projects:
+* [Measured Insight](/assets/measured_insight.pdf) - Paid beta of a statistical system to find product issues early 
+* [Humidor App](/pages/humidor-app.html) - Wrote the entirety of the React Native app including bluetooth integration
+
+
+### Fooling around:
 * [Digital Art Exploration](/pages/digital-art.html) - exploring interactive art & digital frames
 * [Loudness](/pages/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level
-* [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
-* [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - work on capturing the criteria for launch
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data (*inactive*)
-* [Humidor App](/pages/humidor-app.html) - React Native app with bluetooth and Firebase from scratch
 * [Code snippets](/pages/academic.html)
-* [Good Standing](http://goodstanding.guide/) - simplify the administrative burden of startup CEOs
-
 
 ## Other things
 
