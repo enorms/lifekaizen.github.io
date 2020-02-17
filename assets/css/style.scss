@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+.container {
+  width: 200px;
+  height: 120px;
+}
+
+/* resize images */
+.container img {
+  width: 10%;
+  height: auto;
+}

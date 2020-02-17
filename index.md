@@ -11,7 +11,9 @@ layout: default
 * [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - systematize launch criteria
 
-### Larger projects:
+### Other projects:
+* [Stock Coin](https://youtu.be/heBzIqgqkvA) - Won $500 prize in the 2020 [DeveloperWeek hackathon](https://www.developerweek.com/events/hackathon/) as "Our favorite" by [NEAR](https://nearprotocol.com/). I did the front end in React Native; team also had a designer and back end dev.
+![alt text](/assets/img/index/stockcoin_check.jpeg "Presented with a giant for $500 check by Near.")
 * [Measured Insight](/assets/measured_insight.pdf) - Paid beta of a statistical system to find product issues early 
 ![alt text](/assets/img/index/mi_freq_dist.png "Frequency distribution shows clear separation of good and bad items.")
 * [Humidor App](/pages/humidor-app.html) - Wrote the entirety of the React Native app including bluetooth integration
