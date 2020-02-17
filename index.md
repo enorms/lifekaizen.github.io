@@ -6,7 +6,7 @@ layout: default
 
 ### Might be useful to others
 
-* [Good Standing](http://goodstanding.guide/) - Gusto for compliance for startup founders
+* [Good Standing](https://goodstanding.guide/) - Gusto for compliance for startup founders
 ![alt text](/assets/img/index/good_standing_cal.png "Early version of the compliance calendar.")
 * [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
 * [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - systematize launch criteria
