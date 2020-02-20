@@ -43,7 +43,7 @@ Eric is currently pursuing a masters degree in computer science. He created the 
 
 [1]: https://ucsdnews.ucsd.edu/feature/rady_school_of_management_students_win_operations_simulation_competition
 [2]: https://patents.google.com/patent/US10368395B1/en?oq=US10368395B1
-[3]: http://www.hospitalforhope.org/team
+[3]: https://www.hospitalforhope.org/team
 [4]: https://www.linkedin.com/in/amgarg
 [5]: https://desora.co/
 [6]: /assets/publish.pdf
