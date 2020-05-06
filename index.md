@@ -6,6 +6,7 @@ layout: default
 
 ### Might be useful to others
 
+* Control [video playback speed with the keyboard](/pages/video-speed-control.html)
 * [Good Standing](https://goodstanding.guide/) - Gusto for compliance for startup founders
 ![alt text](/assets/img/index/good_standing_cal.png "Early version of the compliance calendar.")
 * [Mac init](https://github.com/lifekaizen/mac-init) - fresh install everything, programatically
