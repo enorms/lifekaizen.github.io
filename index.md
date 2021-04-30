@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Colections: {{ site.collections }}
+
 ## Creations
 
 ### Might be useful to others
