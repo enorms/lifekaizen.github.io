@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Colections: {{ site.collections }}
-
 ## Creations
 
 ### Might be useful to others
@@ -28,6 +26,12 @@ Colections: {{ site.collections }}
 * [Loudness](/pages/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level
 * [Stock screener](https://github.com/lifekaizen/stock-screener) - work at automating timely and unique data (*inactive*)
 * [Code snippets](/pages/academic.html)
+
+
+## Writings
+
+These should be treated as (extreme) drafts for the most part.
+* [All profits are all bad?](/writings/profit.html)
 
 ## Other things
 
