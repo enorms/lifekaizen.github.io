@@ -98,7 +98,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.3)
+    jekyll (3.7.4)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -263,8 +263,12 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+<<<<<<< HEAD
   github-pages
   jekyll (= 3.7.3)
+=======
+  jekyll (= 3.7.4)
+>>>>>>> 485f3ba2045d026d980170bfef12ee54321a4a81
   jekyll-theme-minimal
   kramdown (>= 1.14)
 
