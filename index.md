@@ -28,10 +28,11 @@ layout: default
 * [Code snippets](/pages/academic.html)
 
 
-## Writings
+## [Writings](/writings/)
 
 These should be treated as (extreme) drafts for the most part.
-* [All profits are all bad?](/writings/profit.html)
+* [Technology for Good](writings/techmology.html)
+* [All Profits are All Bad?](/writings/profit.html)
 
 ## Other things
 
