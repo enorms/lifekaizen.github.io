@@ -46,7 +46,7 @@ These should be treated as (extreme) drafts for the most part.
 * Profile [[Angel List](https://angel.co/ericnorman)]
 * Profile [[Hacker News](https://news.ycombinator.com/user?id=lifekaizen)]
 
-Eric is currently pursuing a masters degree in computer science. He created the Cinder Grill which shipped over $1 M of product and [was acquired][5]. He holds degrees from UPenn and UC San Diego and is a graduate of Y Combinator. He also enjoys cooking and skiing.
+Eric is working on a few things and studying computer science. He created and ran a consumer electronics startup which [was acquired][5]. He holds degrees from UPenn and UC San Diego and is a graduate of Y Combinator. He also enjoys cooking and skiing, and maybe hiking.
 
 
 [1]: https://ucsdnews.ucsd.edu/feature/rady_school_of_management_students_win_operations_simulation_competition

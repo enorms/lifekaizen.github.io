@@ -8,3 +8,4 @@ gem "jekyll", "= 3.7.3"
 gem "jekyll-theme-minimal"
 gem "bundler"
 gem "kramdown", ">= 1.14"
+gem "github-pages", group: :jekyll_plugins

@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+:root {
+  --bottom_color: #747474;
+  --top_color: #353535;
+}
+
 .container {
   width: 200px;
   height: 120px;
@@ -11,4 +16,19 @@
 .container img {
   width: 10%;
   height: auto;
+}
+#header_wrap {
+  background: #212121;
+  background: -moz-linear-gradient(top, var(--bottom_color), var(--top_color));
+  background: -webkit-linear-gradient(
+    top,
+    var(--bottom_color),
+    var(--top_color)
+  );
+  background: -ms-linear-gradient(top, var(--bottom_color), var(--top_color));
+  background: -o-linear-gradient(top, var(--bottom_color), var(--top_color));
+  background: linear-gradient(to top, var(--bottom_color), var(--top_color));
+}
+#footer_wrap {
+  background: var(--bottom_color);
 }

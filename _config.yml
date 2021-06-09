@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: eric norman
-description: my personal website
+description: projects and writings
+google_analytics: { { site.google_analytics } }
