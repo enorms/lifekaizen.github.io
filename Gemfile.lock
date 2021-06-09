@@ -61,7 +61,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll (= 3.8.5)
+  jekyll (>= 3.5)
   jekyll-theme-minimal
 
 BUNDLED WITH

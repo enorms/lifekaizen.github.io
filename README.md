@@ -1,6 +1,8 @@
 ### Usage
-run local (to: http://127.0.0.1:4000):
-`bundle exec jekyll serve --watch`
+```sh   
+bundle install
+bundle exec jekyll serve --watch
+```
 
 ### Structure
 
