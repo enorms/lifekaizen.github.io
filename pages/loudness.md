@@ -10,7 +10,7 @@ layout: default
 
 ![loudness](/assets/img/loudness/loudness.png){:class="img-responsive":height="408px" width="306px"}
 
-This was fun because it was a quick sketch that let me play with Scratch sensing, and more importantly flushed out the requirements and gave the idea some shape. Also, I got to learn something about how we percieve sound from an expert in human perception.*
+This was fun because it was a quick sketch that let me play with Scratch sensing, and more importantly flushed out the requirements and gave the idea some shape. Also, I got to learn something about how we percieve sound from an expert in human perception.\*
 
 **The inquiry:**
 

@@ -1,5 +1,6 @@
 ### Usage
-```sh   
+
+```sh
 bundle install
 bundle exec jekyll serve --watch
 ```
@@ -7,7 +8,6 @@ bundle exec jekyll serve --watch
 ### Structure
 
 https://jekyllrb.com/docs/structure/
-
 
 ### Syntax
 
