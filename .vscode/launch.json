@@ -4,8 +4,8 @@
       "type": "pwa-chrome",
       "request": "launch",
       "name": "Chrome localhost",
-      "url": "http://localhost:8080",
-      "webRoot": "${workspaceFolder}"
+      "url": "http://127.0.0.1:4000",
+      "webRoot": "${workspaceFolder}",
     }
   ]
 }
