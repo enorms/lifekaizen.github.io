@@ -1,11 +1,19 @@
 {
   "configurations": [
     {
+      "name": "Attach to Chrome",
+      "port": 4000,
+      "request": "attach",
+      "type": "pwa-chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
       "type": "pwa-chrome",
       "request": "launch",
       "name": "Chrome localhost",
       "url": "http://127.0.0.1:4000",
       "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "serve"
     }
   ]
 }
