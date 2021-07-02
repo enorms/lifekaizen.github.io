@@ -26,3 +26,4 @@ Use H6 for footnotes, like:
 ### Dev
 
 Prettier in .prettierrc based on Collabswarm
+Check for formatting with `% yarn prettier --check .`
