@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /writings/dweb
+id: writings
 ---
 
 # Why I think the distributed web is a thing

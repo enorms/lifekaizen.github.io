@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /writings/techmology
+id: writings
 ---
 
 # Is tech really bad?

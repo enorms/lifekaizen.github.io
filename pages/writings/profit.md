@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /writings/profit
+id: writings
 ---
 
 # All profits are all bad?

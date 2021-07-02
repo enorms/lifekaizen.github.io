@@ -1,6 +1,7 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-slate # https://pages-themes.github.io/slate/
 title: eric norman
 description: projects and writings
+url: https://norman.zone
 google_analytics: { { site.google_analytics } }
 site:
   github:

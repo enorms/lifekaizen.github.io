@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+id: 'home'
 ---
 
 ## [Write](/writings/)
