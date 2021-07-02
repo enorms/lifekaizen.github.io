@@ -2,5 +2,6 @@ theme: jekyll-theme-slate
 title: eric norman
 description: projects and writings
 google_analytics: { { site.google_analytics } }
-github:
-  is_project_page: false
+site:
+  github:
+    is_project_page: false
