@@ -15,9 +15,11 @@ setting URL
 use permalink in each page
 .html is optional
 
-Links
+## Links
+
 [{{Display Text}}]({{URL}})
 [Reading in the Original](https://xkcd.com/2168/)
+Or just have links be themselves, rather than plaintext: https://kramdown.gettalong.org/syntax.html#automatic-links
 
 Use H6 for footnotes, like:
 

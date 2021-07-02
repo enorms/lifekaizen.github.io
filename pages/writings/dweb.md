@@ -27,39 +27,39 @@ I'm working on a content-addressed, distributed oject database with dynamic acce
 
 ###### Footnotes:
 
-0 https://www.wired.com/2016/06/inventors-internet-trying-build-truly-permanent-web/
+0 <https://www.wired.com/2016/06/inventors-internet-trying-build-truly-permanent-web/>
 
-1 that's libp2p, which is maturing, as Ethereum is using it, but early as can be seen by the status of https://libp2p.io/implementations/
+1 that's libp2p, which is maturing, as Ethereum is using it, but early as can be seen by the status of <https://libp2p.io/implementations/>
 
-2 https://medium.com/pinata/why-you-should-stop-sharing-your-creative-work-through-dropbox-7ec38be7da75
+2 <https://medium.com/pinata/why-you-should-stop-sharing-your-creative-work-through-dropbox-7ec38be7da75>
 
-3 paraphrasing, condensing, but vaguely based on https://www.goodreads.com/book/show/17660462-the-everything-store
+3 paraphrasing, condensing, but vaguely based on <https://www.goodreads.com/book/show/17660462-the-everything-store>
 
-4 Why IPFS [Matters], Founder, 2019 https://www.youtube.com/watch?v=zE_WSLbqqvo&t=29s
+4 Why IPFS [Matters], Founder, 2019 <https://www.youtube.com/watch?v=zE_WSLbqqvo&t=29s>
 
-5 IPFS estimates 60% for video http://sites.science.oregonstate.edu/~kovchegy/web/papers/p2p-vdn.pdf via https://ipfs.io/
+5 IPFS estimates 60% for video <http://sites.science.oregonstate.edu/~kovchegy/web/papers/p2p-vdn.pdf> via <https://ipfs.io/>
 
-6 "automatically distributes data and workload demand", "survive ... failures" https://www.cockroachlabs.com/
+6 "automatically distributes data and workload demand", "survive ... failures" <https://www.cockroachlabs.com/>
 
-7 "Never again worry about database provisioning, scaling, sharding, replication, or correctness" https://fauna.com/
+7 "Never again worry about database provisioning, scaling, sharding, replication, or correctness" <https://fauna.com/>
 
-8 'something that makes it possible to author a complex web application and git push deploy it to a scalable “delivery/compute/storage” layer, with minimal lock-in and awesome performance' https://tom.preston-werner.com/2020/03/04/joining-the-netlify-board.html
+8 'something that makes it possible to author a complex web application and git push deploy it to a scalable “delivery/compute/storage” layer, with minimal lock-in and awesome performance' <https://tom.preston-werner.com/2020/03/04/joining-the-netlify-board.html>
 
 9 DuckDuckGo gives it position 5, or 3 excluding ads. Google seems to have learned my patterns and now gives position 1.
 
-10 "[Access Control List] can never change, which means you can't add/revoke other write permissions" https://github.com/orbitdb/field-manual/blob/3ddce1c1bf2357f66494060c7397b5495b6c1601/01_Tutorial/06_Identity_Permission.md; at the time of writing, anyway
+10 "[Access Control List] can never change, which means you can't add/revoke other write permissions" <https://github.com/orbitdb/field-manual/blob/3ddce1c1bf2357f66494060c7397b5495b6c1601/01_Tutorial/06_Identity_Permission.md>; at the time of writing, anyway
 
-11 "Cloudflare’s easy way to access content from IPFS" posted in 2018 with enough experience to think about "Dealing with abuse" https://blog.cloudflare.com/distributed-web-gateway/
+11 "Cloudflare’s easy way to access content from IPFS" posted in 2018 with enough experience to think about "Dealing with abuse" <https://blog.cloudflare.com/distributed-web-gateway/>
 
-12 Brave, which I started using as my iOS browser due to better add blocking, added support for "IPFS URI" in Jan 2021, recent https://brave.com/ipfs-support/, initial https://brave.com/brave-integrates-ipfs/
+12 Brave, which I started using as my iOS browser due to better add blocking, added support for "IPFS URI" in Jan 2021, recent <https://brave.com/ipfs-support/>, initial <https://brave.com/brave-integrates-ipfs/>
 
-13 https://github.com/collabswarm/collabswarm; name will likely change so if link is broken please let me know!
+13 <https://github.com/collabswarm/collabswarm>; name will likely change so if link is broken please let me know!
 
 ###### Other References:
 
-- https://ens.domains/
-- https://github.com/dappkit/aviondb
-- https://github.com/amark/gun
-- https://thegraph.com/
+- <https://ens.domains/>
+- <https://github.com/dappkit/aviondb>
+- <https://github.com/amark/gun>
+- <https://thegraph.com/>
 
-_Formatting Note:_ in trying to encourage myself to write more I'm trying to reduce friction so using super basic footnotes and links, hopefully everyone can figure out the meaning and the numbering doesn't misalign, if not let me know. (Edit: wow they're not even links, sorry, I'll have to find a script or add the syntax...)
+_Formatting Note:_ in trying to encourage myself to write more I'm trying to reduce friction so using super basic footnotes and links, hopefully everyone can figure out the meaning and the numbering doesn't misalign, if not let me know.
