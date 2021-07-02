@@ -1,18 +1,18 @@
 ---
 layout: default
+permalink: /creations/humidor-app
+id: creations
 ---
 
-# Humidor app
-
-## Creations
-
-**Stack**: React Native, Firebase, RN [BLE PLX][0]
+## Overview
 
 **What**: Visually simple proof of concept for first connected humidor for the company, with functional bluetooth and cloud database.
 
 **Why**: Quickly confirm core value prog and gain deeper of production requirements.
 
 **Client**: [Case Elegance](https://caseelegance.com/collections/humidors)
+
+**Stack**: React Native, Firebase, RN [BLE PLX][0]
 
 Case Elegance is a quickly growing retailer with a strong presence on Amazon. They are a top seller of humidors which let cigar afficionados store their cigars in optimal conditions, much like a wine cellar.
 

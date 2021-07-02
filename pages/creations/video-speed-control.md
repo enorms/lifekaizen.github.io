@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /creations/video-speed-control
+id: creations
 ---
 
 # Control video playback speed with media keys

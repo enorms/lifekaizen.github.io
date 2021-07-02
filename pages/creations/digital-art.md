@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /creations/digital-art
+id: creations
 ---
 
 # Digital Art Exploration

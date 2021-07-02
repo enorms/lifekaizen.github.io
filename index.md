@@ -20,7 +20,7 @@ _Current:_
 - **Synesthesus** - visualize non-visual things. (update pending)
 - [**Check yo site**](https://github.com/lifekaizen/check-yo-site) - Automated code suggestions that are simple to merge in. (repo may be private)
 - **Cam Measurement Stand** - A dynameter for camshafts for racing engines. Electronic component selection, layout, firmware. CLI UI with visual output. [Python, C++] (In progress)
-- [**Klaro Humidor**](/pages/humidor-app.html) - Smart humidor and subscription (launching soon). Select BLE chip and spec firmware, write initial app with (background) ble. [React Native, JavaScript, C++, Ruby, Jira].
+- [**Klaro Humidor**](/creations/humidor-app.html) - Smart humidor and subscription (launching soon). Select BLE chip and spec firmware, write initial app with (background) ble. [React Native, JavaScript, C++, Ruby, Jira].
   ![cam stand and graphs](/assets/img/index/cam_stand.png 'Output graphs.')
 - [Mac init](https://github.com/lifekaizen/mac-init) - install and maintain Mac env programmatically
 - [Founders' checklist](https://github.com/lifekaizen/founders-checklist) - see if you have things now that will keep you going later
@@ -35,15 +35,15 @@ _Before:_
 - [Measured Insight](/assets/measured_insight.pdf) - Early quality control check for shipping [Python]
   ![frequency distribution](/assets/img/index/mi_freq_dist.png 'Frequency distribution shows clear separation of good and bad items.')
 
-- Control [video playback speed with the keyboard](/pages/video-speed-control.html) [Karabiner]
-- [Digital Art Exploration](/pages/digital-art.html) - exploring interactive art & digital frames [Apple photos]
-- [Loudness](/pages/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level [sketch]
+- Control [video playback speed with the keyboard](/creations/video-speed-control.html) [Karabiner]
+- [Digital Art Exploration](/creations/digital-art.html) - exploring interactive art & digital frames [Apple photos]
+- [Loudness](/creations/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level [sketch]
 
 ## About
 
 - Issued patent for precision cooking. [[Google Patents][2]]
 - Helped kick off this humanitarian project [[Hospital for Hope][3]] (_Mainly [Amit Garg's][4] herculean efforts_)
-- Won international operations competition hosted by MIT graduate student club [[UCSD News][1]]
+- Won competition hosted by MIT graduate student club [[UCSD News][1]]
 - (UCSD) Rady Journal article [[final pdf][6]]
 - Profiles [[Angel List](https://angel.co/ericnorman)][[Hacker News](https://news.ycombinator.com/user?id=lifekaizen)]
 

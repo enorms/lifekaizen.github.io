@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /creations/loudness
+id: creations
 ---
 
 # Loudness

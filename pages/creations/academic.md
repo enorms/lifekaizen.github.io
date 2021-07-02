@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /creations/academic
+id: creations
 ---
 
 # Code snippets
