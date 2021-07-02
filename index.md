@@ -5,15 +5,15 @@ title: home
 
 ## [Write](/writings/)
 
-These should be treated as (extreme) drafts for the most part and are probably not interesting to you if you don't know me.
-
-- [Why I think the distributed web is a thing](/writings/dweb.html)
+- [Why I think the distributed web is a thing?](/writings/dweb.html)
 - [Technology for Good](writings/techmology.html)
 - [All Profits are All Bad?](/writings/profit.html)
 
+_Note:_ These should be treated as drafts for the most part and are probably not interesting if you don't know me
+
 ## Create
 
-_Active:_
+_Current:_
 
 - [**CollabSwarm**](https://github.com/collabswarm/collabswarm) - Distributed database with access control based on IPFS. [TypeScript] \(repo may be private\)
 - **Synesthesus** - visualize non-visual things. (update pending)
