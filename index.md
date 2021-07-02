@@ -7,6 +7,7 @@ title: home
 
 These should be treated as (extreme) drafts for the most part and are probably not interesting to you if you don't know me.
 
+- [Why I think the distributed web is a thing](/writings/dweb.html)
 - [Technology for Good](writings/techmology.html)
 - [All Profits are All Bad?](/writings/profit.html)
 
