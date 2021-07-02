@@ -22,3 +22,7 @@ Links
 Use H6 for footnotes, like:
 
 ###### footnotes:
+
+### Dev
+
+Prettier in .prettierrc based on Collabswarm
