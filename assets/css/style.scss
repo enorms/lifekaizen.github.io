@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import '{{ site.theme }}';
 :root {
   --bottom_color: #747474;
   --top_color: #353535;
@@ -36,4 +36,6 @@ img {
 #footer_wrap {
   background: var(--bottom_color);
 }
-#forkme_banner { display: none };
+#forkme_banner {
+  display: none;
+}

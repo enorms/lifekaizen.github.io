@@ -6,7 +6,7 @@ layout: default
 
 I remapped the **existing media control key paradigm** to work better for video. This maps the existing keyboard visual and expected functionality (forward and back arrows, start/stop ) and adds only one more element to remember.
 
-![alt text](/assets/img/video-speed/keyboard-highlight.jpg "mac keyboard with mapped keys highlighted")
+![alt text](/assets/img/video-speed/keyboard-highlight.jpg 'mac keyboard with mapped keys highlighted')
 
 Specifically, these keys now have these functions:
 
@@ -50,19 +50,19 @@ I used homebrew: `brew cask install karabiner-elements`
 
 When you are done it should look like this:
 
-![alt text](/assets/img/video-speed/function-keys.png "screenshot of function key screen after configuration")
+![alt text](/assets/img/video-speed/function-keys.png 'screenshot of function key screen after configuration')
 
 _Leave "use [function keys] as standard function keys" unchecked, leave Target device as "For all devices"._
 
 Also, make sure your keyboard is checked under Karabiner-Elements Preferences > Devices.
 
-![alt text](/assets/img/video-speed/devices.png "screenshot of devices screen after configuration")
+![alt text](/assets/img/video-speed/devices.png 'screenshot of devices screen after configuration')
 
 Now the code sent when a key has pressed will be updated from this
-![alt text](/assets/img/video-speed/events-before.png "screenshot of key events before configuration")
+![alt text](/assets/img/video-speed/events-before.png 'screenshot of key events before configuration')
 
 to this
-![alt text](/assets/img/video-speed/events-after.png "screenshot of key events after configuration")
+![alt text](/assets/img/video-speed/events-after.png 'screenshot of key events after configuration')
 
 These new keys can be mapped in the Video Speed Controller settings.
 
@@ -74,7 +74,7 @@ These new keys can be mapped in the Video Speed Controller settings.
 
 When you are done it should look like this
 
-![alt text](/assets/img/video-speed/controller.png "screenshot of controller settings screen after configuration")
+![alt text](/assets/img/video-speed/controller.png 'screenshot of controller settings screen after configuration')
 
 _Note: for image clarity I cleared keys that were not changed; these reset to default upon save._
 
@@ -83,12 +83,12 @@ The second parameter is the speed increment to change. I find that going beyond 
 ## Usage
 
 Open a YouTube video, you should see the playback speed in the upper left
-![alt text](/assets/img/video-speed/normal.png "screenshot of youtube video with normal playback speed")
+![alt text](/assets/img/video-speed/normal.png 'screenshot of youtube video with normal playback speed')
 
 _If you don't see this, try pressing v for "Show/Hide controller"._
 
 Now, press `F9` and you should see the playback speed advance to `1.50`
-![alt text](/assets/img/video-speed/fast-highlight.png "screenshot of youtube video with increased playback speed")
+![alt text](/assets/img/video-speed/fast-highlight.png 'screenshot of youtube video with increased playback speed')
 
 _Note that `F8` will work even when another screen is foremost, but the three we set up require the browser tab to be foremost to function._
 

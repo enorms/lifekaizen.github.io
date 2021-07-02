@@ -11,7 +11,7 @@ We know that profit motive can drive bad behaviour, as a clear example we can us
 
 So how can profit be good? And this is not as-in greed is good, this is as-in a better allocation of resources and reducing waste. This example comes from grading a computer science course for C++ data structures. In cs, graphs are a set of connected points. Sometimes the connections are assigned values and a common task is to find the optimal path. If we use an arbitrary scale from 1 - 1000 where 1 is good and 1000 is bad, and we can get from point 0 to point 5 directly for 500, but indirectly via point 1 for 470, then we simply choose the path(s) with the lowest sum and say it is a better choice.
 
-![graph](/assets/img/writings/profit/graph.png "A weighted graph of hypothetical airline flights"){:class="img-responsive":height="480px" width="360px"}
+![graph](/assets/img/writings/profit/graph.png 'A weighted graph of hypothetical airline flights'){:class="img-responsive":height="480px" width="360px"}
 
 _Graph of the example of the cost of flying from SFO to JFK_[^1]
 

@@ -22,8 +22,8 @@ How about [restoring sight to the blind](https://www.cnn.com/2021/05/25/europe/b
 
 If you doubt this, I encourage you to spend some time in nature. I just completed a multi-day hike with some friends, and life is very hard and slow away from our normal existence. This is with using cutting edge tech for water, lightweight gear, etc.
 
-![hiking with some technology](/assets/img/writings/tech/inyo.jpg "Inyo National Forest"){:class="img-responsive":height="480px"}
+![hiking with some technology](/assets/img/writings/tech/inyo.jpg 'Inyo National Forest'){:class="img-responsive":height="480px"}
 
 Let's make technology for humans again, to make our lives better.
 These are the kind of things I'm exploring now.
-![Perseverance drone with rover](https://www.extremetech.com/wp-content/uploads/2016/06/MARS-_helicopter_Final15.jpg "exploring Mars remotely")
+![Perseverance drone with rover](https://www.extremetech.com/wp-content/uploads/2016/06/MARS-_helicopter_Final15.jpg 'exploring Mars remotely')
