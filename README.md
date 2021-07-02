@@ -1,4 +1,4 @@
-### Usage
+### Build locally
 
 ```sh
 bundle install
@@ -9,7 +9,7 @@ bundle exec jekyll serve --watch
 
 https://jekyllrb.com/docs/structure/
 
-### Syntax
+### Syntax & Formatting
 
 setting URL
 use permalink in each page
@@ -18,3 +18,7 @@ use permalink in each page
 Links
 [{{Display Text}}]({{URL}})
 [Reading in the Original](https://xkcd.com/2168/)
+
+Use H6 for footnotes, like:
+
+###### footnotes:
