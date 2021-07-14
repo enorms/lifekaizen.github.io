@@ -6,7 +6,7 @@ id: 'home'
 
 ## [Write](/writings/)
 
-- [Draft - About investments and trading](/writings/investing.html)
+- [[Draft] - About investments and trading](/writings/investing.html)
 - [Why I think the distributed web is a thing?](/writings/dweb.html)
 - [Technology for Good](writings/techmology.html)
 - [All Profits are All Bad?](/writings/profit.html)
