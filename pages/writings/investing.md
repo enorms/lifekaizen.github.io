@@ -4,6 +4,8 @@ permalink: /writings/investing
 id: investing
 ---
 
+[draft]
+
 # Investing
 
 ## An attempt to explain recent developments in this hobby that lately pays the rent
