@@ -41,6 +41,8 @@ So that kicked off a strategy that seems to be working for me. I sell out of the
 
 There are a few specific strategies related to this. Just to name them, there is the consumer version of the Warren Buffet long bets which try to be a binary play on whether a company will be greatly permanently impaired (i.e. go bankrupt), pricing anomalies, special situations around acquisitions, and what we can call other. Another time I'll go into more detail about these.
 
+{% include footer.md %}
+
 ###### Footnotes:
 
 [^1]: At that time I was not aware of the various inequalities in our society. There was also less (visible) inequality than now, though I'm sure there was a lot, less multi-million dollar golden parachutes, billionaires, etc. Well, the 80s was summed up in Wall Street's "Greed is good", so perhaps I was just naive.
