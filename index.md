@@ -6,6 +6,7 @@ id: 'home'
 
 ## [Write](/writings/)
 
+- [[Draft] - Why contribute to a retirement account?](/writings/retirement.html)
 - [[Draft] - About investments and trading](/writings/investing.html)
 - [Why I think the distributed web is a thing?](/writings/dweb.html)
 - [Technology for Good](writings/techmology.html)
