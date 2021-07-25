@@ -31,7 +31,7 @@ One large caveat has to do with inflation. While $29 is the number of dollars in
 
 ## II. Why does it matter
 
-The short version is that I don't think it should, but the reality of the present US is that not having access to capital leaves one at the mercy of the government and sometimes that can be very painful. A recent example are the large delays in processing completely legitimate payment claims for things like unemployment, or implementing restrictions on late-rent evictions, etc. The US is not a great place to be if you do not have much wealth. If you plan to not have much wealth, there are much better places such as Canada, New Zealand, etc. [^8]
+The short version is that I don't think it should, but the reality of the present US is that not having access to capital leaves one at the mercy of the government and sometimes that can be very painful. A recent example are the large delays in processing completely legitimate payment claims for things like unemployment, or implementing restrictions on late-rent evictions, etc. The US is not a great place to be if you do not have much wealth. If you plan to not have much wealth, there are much better places such as Canada, New Zealand, etc. [^8] And note that I'm specifically separating wealth or income from happiness or well-being or purpose or value.
 
 ![](/assets/img/retirement/spi.png 'Social Progress Index'){:class="img-responsive": width="80%"}
 
