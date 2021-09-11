@@ -1,0 +1,98 @@
+// cSpell Settings
+// to alphabetize: _list.sort(), str(_list).replace('\'', '"')
+{
+    // Version of the setting file.  Always 0.2
+    "version": "0.2",
+    // language - current active spelling language
+    "language": "en",
+    "ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders",
+        "testing.md"
+    ],
+    // words - list of words to be always considered correct
+    "words": [
+        "allowfullscreen",
+        "Amit",
+        "Bezos",
+        "blowingly",
+        "Buffett",
+        "CCSF",
+        "CDN",
+        "chapstick",
+        "Chu",
+        "cmpfiles",
+        "CNBC",
+        "colemak",
+        "Collabswarm",
+        "combinator",
+        "CRDT",
+        "devs",
+        "dweb",
+        "extname",
+        "filecmp",
+        "Gamestop",
+        "Garg",
+        "hackathon",
+        "Inyo",
+        "IPFS",
+        "Jamstack",
+        "karabiner",
+        "Klaro",
+        "libp2p",
+        "Luttrel",
+        "Meural",
+        "Minborg",
+        "misalign",
+        "Netgear",
+        "pdfs",
+        "PLX",
+        "prettierrc",
+        "productizing",
+        "RADY",
+        "Robinhood",
+        "Sacha",
+        "Seligman",
+        "SFO",
+        "Siegel",
+        "stockcoin",
+        "swarmbase",
+        "Synesthesus",
+        "techmology",
+        "UCSD",
+        "yjs"
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"
+    "flagWords": [
+        "hte"
+    ],
+    // Dictionaries "spanish", "ruby", and "corp-term" will always be checked.
+    // Including "spanish" in the list of dictionaries means both Spanish and English
+    // words will be considered correct.
+    // https://github.com/streetsidesoftware/cspell/tree/main/packages/cspell#general-dictionaries
+    "dictionaries": [
+        "bash",
+        "companies",
+        "corp-terms",
+        "cpp",
+        "css",
+        "filetypes",
+        "fonts",
+        "go",
+        "html",
+        "misc",
+        "node",
+        "npm",
+        "python",
+        "ruby",
+        "softwareTerms",
+        "spanish",
+        "typescript"
+    ]
+}

@@ -14,7 +14,7 @@ id: creations
 
 **Stack**: React Native, Firebase, RN [BLE PLX][0]
 
-Case Elegance is a quickly growing retailer with a strong presence on Amazon. They are a top seller of humidors which let cigar afficionados store their cigars in optimal conditions, much like a wine cellar.
+Case Elegance is a quickly growing retailer with a strong presence on Amazon. They are a top seller of humidors which let cigar aficionados store their cigars in optimal conditions, much like a wine cellar.
 
 They already have a modern, new clientele, and adding smart capabilities will allow them to serve their customers better and create tremendous corporate value.
 

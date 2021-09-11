@@ -29,6 +29,6 @@ Stuff I'm looking at and trying to figure out how to use
 
 ###### Footnotes:
 
-\* "That's how I wound up with this python project template. Every time I'd try to do something I'd need a reqo, and that would need to be setup, and I'd have to look up again how to set up the formatter for VSCode, and which typing library so and so suggested... The upshot is the template is getting pretty good, which means soon it will be simple to install and use something like shell: `% cool_module task argument`. (instead of `python ./user/folder/project-folder/src/package/main.py task argument` -> oops need to `chmod +x` ... etc.)."
+\* "That's how I wound up with this python project template. Every time I'd try to do something I'd need a repo, and that would need to be setup, and I'd have to look up again how to set up the formatter for VSCode, and which typing library so and so suggested... The upshot is the template is getting pretty good, which means soon it will be simple to install and use something like shell: `% cool_module task argument`. (instead of `python ./user/folder/project-folder/src/package/main.py task argument` -> oops need to `chmod +x` ... etc.)."
 
 {% include footer.md %}

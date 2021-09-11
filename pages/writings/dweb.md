@@ -10,20 +10,20 @@ InterPlanetary File System (IPFS) does a great job of laying out the benefits on
 Use content-based addressing which makes it easy to scale copies and save (and distinguish) versions. 0
 Infra to connect peers which combines: finding and ranking peers, dealing with various routing headaches. 1
 
-Separately, a better distributed data structure came out of computer science resarch into the world; that's CRDT, implementation example: yjs.
+Separately, a better distributed data structure came out of computer science research into the world; that's CRDT, implementation example: yjs.
 
 Distributed versions of many things will need to be built. Example: replacing Dropbox. 2
-It feels a bit like the stories of Bezos at the mathemeticians fund, when they saw the internet was coming and brainstormed what was possible and Amazon was essentially one of those ideas. 3
+It feels a bit like the stories of Bezos at the mathematicians fund, when they saw the internet was coming and brainstormed what was possible and Amazon was essentially one of those ideas. 3
 
 ## How different is it really (say from using a modern CDN)?
 
 Well it's a paradigm shift so in addition to the technical architecture being completely different, there is a philosophical shift about privacy and control and against extreme centralized power; IPFS founder does a good job laying out the emotional case for this 4
 
-Other than that, for end users it should be similar. But for devs and app developers, the simple ability to create private networks and databases, and expand them publicy. Potentially lower costs, better uptime. 5 Simpler is coming anyway with Jamstack and databases that handle for of the maintenance. 8
+Other than that, for end users it should be similar. But for devs and app developers, the simple ability to create private networks and databases, and expand them publicly. Potentially lower costs, better uptime. 5 Simpler is coming anyway with Jamstack and databases that handle for of the maintenance. 8
 
 It seems early. When I searched "IPFS" today to show a friend, the result was way down after some medical terms and local maps - despite searching and clicking on IPFS frequently. 9 Some obvious things have not been completed yet, and many .com domain names have availability. 10 There is some initial infrastructure support. 11 12
 
-I'm working on a content-addressed, distributed oject database with dynamic access control 13 If you're intersted in this or any other "for service in web: service.dweb", reach out and let me know your thoughts!
+I'm working on a content-addressed, distributed object database with dynamic access control 13 If you're interested in this or any other "for service in web: service.dweb", reach out and let me know your thoughts!
 
 ###### Footnotes:
 
@@ -58,10 +58,8 @@ I'm working on a content-addressed, distributed oject database with dynamic acce
 - <https://github.com/amark/gun>
 - <https://thegraph.com/>
 
-
 ###### Thanks
+
 To Robert Chu for reading drafts.
 
 _Formatting Note:_ in trying to encourage myself to write more I'm trying to reduce friction so using super basic footnotes and links, hopefully everyone can figure out the meaning and the numbering doesn't misalign, if not let me know.
-
-

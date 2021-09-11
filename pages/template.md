@@ -10,7 +10,7 @@ id: some_name
 
 Normal text
 
-![an imgage](/assets/img/writings/profit/graph.png 'A weighted graph of hypothetical airline flights'){:class="img-responsive":height="480px" width="360px"}
+![an image](/assets/img/writings/profit/graph.png 'A weighted graph of hypothetical airline flights'){:class="img-responsive":height="480px" width="360px"}
 
 _Describing the image_[^1]
 

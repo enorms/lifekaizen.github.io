@@ -1,3 +1,16 @@
+# Usage
+
+## Add a new article
+
+Copy writing template and update `permalink` and `id`.
+
+Add link on `./index.md`
+
+Do a local build test (see below).
+
+Check spelling
+`cspell lint "**/*.md"`
+
 ### Build locally
 
 ```sh
