@@ -31,6 +31,7 @@
         "Collabswarm",
         "combinator",
         "CRDT",
+        "cumul",
         "devs",
         "dweb",
         "extname",
@@ -93,6 +94,13 @@
         "ruby",
         "softwareTerms",
         "spanish",
-        "typescript"
+        "typescript",
+        "investment-terms"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "investment-terms",
+            "path": "./cspell-dictionaries/investment-terms.txt"
+        }
     ]
 }

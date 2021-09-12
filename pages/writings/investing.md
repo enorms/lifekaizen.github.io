@@ -10,6 +10,18 @@ id: investing
 
 ## An attempt to explain recent developments in this hobby that lately pays the rent
 
+Here is the cumulative return from approximately 2017 to August 2021. My return is 510% which seems to be better than the standard indexes, and even some hedge funds. For example, the S&P 500 index was up 103%, so I did better by approximately 400%. This was kind of unexpected and we'll see if it can continue. It's also not outrageous in this time where people made thousands of percent just with Bitcoin.
+
+| item                       | 5 yr cumul. return | notes                                                                                                         | source                                                |
+| -------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| gross return               | 510%               | Time-Weighted Return (measures percent return produced over time independent of contributions or withdrawals) | Interactive Brokers computed number for main account  |
+| hedge fund 75th percentile | 224%               | Various hedge funds available to accredited investors                                                         | Interactive Brokers Hedge fund marketplace (n=53)     |
+| nasdaq                     | 184%               |                                                                                                               | https://www.morningstar.com/indexes/xnas/@cco/quote   |
+| VTI                        | 120%               | ETF covering the US market that I would hold if not actively managing                                         | https://www.morningstar.com/etfs/arcx/vti/performance |
+| morningstar us             | 104%               | index                                                                                                         | https://www.morningstar.com/indexes/spi/mstar/quote   |
+| sp500                      | 103%               | index                                                                                                         | https://www.morningstar.com/indexes/spi/spx/quote     |
+| hedge fund 50th percentile | 79%                | Various hedge funds available to accredited investors                                                         | Interactive Brokers Hedge fund marketplace (n=53)     |
+
 I've been interested in economics and business since I was a teenager, the way I imagine the poster American boy reads about baseball players and memorizes their stats, I would do for businesses.[^1] I thought in college I might go to Wall Street, so I was doing some investing or trading even then.[^2] However, it was fairly recently, using much that I learned in the startup world, that I began to think I had figured (some) things out.
 
 |   year   | return % | SP500 % | alpha % |
