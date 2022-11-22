@@ -44,3 +44,7 @@ Prettier in .prettierrc based on Collabswarm
 Are changes? `% yarn prettier --check .`
 Dry run `yarn prettier --write .`
 Execute `yarn prettier --write .`
+
+
+### Hosting setup
+[Cloudflare SSL strict + GH Pages HTTPS](https://community.cloudflare.com/t/github-pages-require-disabling-cfs-http-proxy/147401/27)
