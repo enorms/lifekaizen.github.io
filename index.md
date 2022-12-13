@@ -10,7 +10,7 @@ id: 'home'
 - Book ratings on [Goodreads](https://www.goodreads.com/review/list/129122504-eric?shelf=read&sort=date_read&view=reviews)
 
 
-## [Write](/writings/)
+## Write
 - [An Oxford Tutor for everyone](https://enorm.notion.site/enorm/An-Oxford-Tutor-for-everyone-089f5c929b2849f1a77cdf0fae46c131)
 - [Thoughts on how to think about using new technology?](/writings/new_tech.html)
 <!-- - [[Draft] - Why contribute to a retirement account?](/writings/retirement.html) -->
