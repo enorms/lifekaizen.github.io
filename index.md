@@ -19,13 +19,12 @@ id: 'home'
 - [Technology for Good](writings/techmology.html)
 - [All Profits are All Bad?](/writings/profit.html)
 
-_Note:_ These should be treated as drafts for the most part and are probably not interesting if you don't know me
 
 ## Create
 
 - [Mac init](https://github.com/lifekaizen/mac-init) - install and maintain Mac env programmatically
-[**Vmina**](https://ethglobal.com/showcase/vmina-9m938) - Hackathon project for EthSF, [team of 5](https://twitter.com/MinaProtocol/status/1589687918695976961/photo/1). Won two Best Use.
--[**Passport by Orange**](https://passport.orangedao.xyz/) - Non-transferable Membership Token. I wrote the smart contract [Solidity]
+- [**Vmina**](https://ethglobal.com/showcase/vmina-9m938) - Hackathon project for EthSF, [team of 5](https://twitter.com/MinaProtocol/status/1589687918695976961/photo/1). Won two Best Use.
+- [**Passport by Orange**](https://passport.orangedao.xyz/) - Non-transferable Membership Token. I wrote the smart contract [Solidity]
 - [**CollabSwarm**](https://github.com/collabswarm/collabswarm) - Distributed database with access control based on IPFS. [TypeScript] \(repo may be private\)
 - **Synesthesus** - visualize non-visual things. (update pending)
 - [**Check yo site**](https://github.com/lifekaizen/check-yo-site) - Automated code suggestions that are simple to merge in. (repo may be private)
