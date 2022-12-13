@@ -9,7 +9,9 @@ Add link on `./index.md`
 Do a local build test (see below).
 
 Check spelling
-`cspell lint "**/*.md"`
+```
+cspell lint "**/*.md"
+```
 
 ### Build locally
 
@@ -41,9 +43,18 @@ Use H6 for footnotes, like:
 ### Dev
 
 Prettier in .prettierrc based on Collabswarm
-Are changes? `% yarn prettier --check .`
-Dry run `yarn prettier --write .`
-Execute `yarn prettier --write .`
+Are changes? 
+```
+yarn prettier --check .
+```
+Dry run 
+```
+yarn prettier --write .
+```
+Execute 
+```
+yarn prettier --write .
+```
 
 
 ### Hosting setup
