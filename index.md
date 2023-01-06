@@ -4,10 +4,10 @@ title: home
 id: 'home'
 ---
 
-## Media 
-- Introducing Media encyclopedia research release [Try ^](https://norman.softr.app/media)
-
-- Book ratings on [Goodreads](https://www.goodreads.com/review/list/129122504-eric?shelf=read&sort=date_read&view=reviews)
+## Think 
+- [Media log](https://norman.softr.app/media) - from ~2023 
+- [Books](https://www.goodreads.com/review/list/129122504-eric?shelf=read&sort=date_read&view=reviews) - through ~2022
+- [Idea log](https://norman.softr.app/ideas) (beta)
 
 
 ## Write
@@ -21,9 +21,8 @@ id: 'home'
 
 
 ## Create
-
 - [Mac init](https://github.com/lifekaizen/mac-init) - install and maintain Mac env programmatically
-- [**Vmina**](https://ethglobal.com/showcase/vmina-9m938) - Hackathon project for EthSF, [team of 5](https://twitter.com/MinaProtocol/status/1589687918695976961/photo/1). Won two Best Use.
+- [**Vmina**](https://ethglobal.com/showcase/vmina-9m938) - Hackathon project for EthSF, [team of 5](https://twitter.com/MinaProtocol/status/1589687918695976961/photo/1). Won two Best Use awards.
 - [**Passport by Orange**](https://passport.orangedao.xyz/) - Non-transferable Membership Token. I wrote the smart contract [Solidity]
 - [**CollabSwarm**](https://github.com/collabswarm/collabswarm) - Distributed database with access control based on IPFS. [TypeScript] \(repo may be private\)
 - **Synesthesus** - visualize non-visual things. (update pending)
@@ -42,8 +41,8 @@ id: 'home'
 - [Digital Art Exploration](/creations/digital-art.html) - exploring interactive art & digital frames [Apple photos]
 - [Loudness](/creations/loudness.html) - Quick sketch to explore an inquiry into restaurant noise level [sketch]
 
-## About
 
+## About
 - Patent for precision cooking. [[Google Patents][2]]
 - Helped kick off this humanitarian project [[Hospital for Hope][3]] (_Mainly [Amit Garg's][4] herculean efforts_)
 - Won competition hosted by MIT graduate student club [[UCSD News][1]]
