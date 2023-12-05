@@ -47,7 +47,7 @@ id: 'home'
 - Helped kick off this humanitarian project [[Hospital for Hope][3]] (_Mainly [Amit Garg's][4] herculean efforts_)
 - Won competition hosted by MIT graduate student club [[UCSD News][1]]
 - (UCSD) Rady Journal article [[final pdf][6]]
-- Profiles [[GitHub](https://github.com/enxyz)][[Angel List](https://angel.co/ericnorman)][[Hacker News](https://news.ycombinator.com/user?id=lifekaizen)][[LinkedIn](https://www.linkedin.com/in/enorm/)][[Twitter](https://twitter.com/enxeth)]
+- Profiles [[GitHub](https://github.com/enorms)][[Angel List](https://angel.co/ericnorman)][[Hacker News](https://news.ycombinator.com/user?id=lifekaizen)][[LinkedIn](https://www.linkedin.com/in/enorm/)][[Twitter](https://twitter.com/enxeth)]
 
 Words: Eric is working on a few things and studying computer science. He created and ran a consumer electronics startup which [was acquired][5]. He holds degrees from UPenn and UC San Diego and is a graduate of Y Combinator. He also enjoys cooking and skiing, and maybe hiking.
 
